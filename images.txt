@@ -1,7 +1,4 @@
-mysql:8.0
-redis:7-alpine
-eclipse-temurin:21-jdk-jammy
-node:18-alpine
-nginx:1.24-alpine
+maven:3.9-eclipse-temurin-21
+eclipse-temurin:21-jre-jammy
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
